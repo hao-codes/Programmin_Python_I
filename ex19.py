@@ -1,6 +1,6 @@
 """
 Author: Hao Zheng
-Matr.Nr.: K01608113
+
 Exercise 19
 """
 
